@@ -1,0 +1,16 @@
+body{
+  font-family: Helvetica, sans-serif;
+}
+
+.movieEntry{
+  border: 1px solid black;
+}
+
+.moreInfo{
+  padding: 5px;
+}
+
+button{
+  background-color: white;
+  color: black;
+}
